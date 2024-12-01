@@ -1,12 +1,13 @@
 # 💫 About Me:
-Hey there! 👋 <br>
-🙂 I am Farhan, a passionate Cybersecurity developer from India.<br>
-🧠 I am more of a <b>self-learner</b> who loves learning things apart from the classroom. My journey in Cybersecurity began at the age of 17.<br>
-🤟 I hate restricting myself to a <b>single domain</b> so I always look forward for <b>new adventures.</b></br>
-👨‍💻 I have worked on many projects from doing Penetration testing, VAPT to securing emails with SPF, DKIM, DMARC.<br>
-⚒️ I am open to collaborate on <b>projects from any domain.</b><br>
-☁️ Currently learning Cloud security and SEIMs.<br>
-P.S- I think I am good at football.⚽
+Hey there! 👋  
+🙂 I'm **Farhan Ansari**, a passionate Cybersecurity professional from India.  
+🧠 A dedicated **self-learner**, I began my Cybersecurity journey at the age of 17 and have been honing my skills ever since.  
+🤟 I thrive on exploring **new domains** and taking on exciting challenges in the world of technology.  
+👨‍💻 My experience spans across **vulnerability assessments**, **penetration testing**, **email security (SPF, DKIM, DMARC)**, **cloud security**, and **SIEMs**.  
+⚒️ Open to collaborating on impactful projects in Cybersecurity and beyond.  
+☁️ Currently focused on mastering **Cloud Security**, **Endpoint Detection and Response (EDR)**, and **Threat Intelligence**.  
+
+P.S. I'm pretty good at football, too. ⚽  
 
 
 ## 🌐 Socials:
